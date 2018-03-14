@@ -13,8 +13,8 @@ headers = {
 login_data = {
     'source':'index_nav',
     'redir':'https://www.douban.com/',
-    'form_email':'15711026959@163.com',
-    'form_password':'tanglong1214',
+    'form_email':'*****',   #输入注册邮箱
+    'form_password':'****',  #输入密码
     'captcha-solution':'',
     'captcha-id':'',
     'login':'登录'
